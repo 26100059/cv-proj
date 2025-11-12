@@ -1,1 +1,1 @@
-# cv-proj
+# Computer Vision Project
